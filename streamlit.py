@@ -15,5 +15,5 @@ def main():
         else:
             st.write("Not Toxic")
 
-if __name__ == '__main__':
-    main()
+
+st.title("Toxicity Detection")

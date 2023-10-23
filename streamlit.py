@@ -36,17 +36,9 @@ def main():
         else:
             st.write("Not Toxic") 
 
-# def score_comment(comment):
-#     vectorized_comment = vectorizer([comment])
-#     results = model.predict(vectorized_comment)
 
-#     text=''
-#     for idx, col in enumerate(data.columns[2:-1]):
-#         text += f'{col}: {results[0][idx]>0.5}|| '
-#     return text
 
 if __name__ == '__main__':
     main()
 
-# print(score_comment("You are a bad person"))
 

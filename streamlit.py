@@ -22,7 +22,7 @@ vectorizer.adapt(X.values)
 
 
 def main():
-    st.title("Toxicity Detection")
+    st.title("Toxicity Detection App")
 
 
 

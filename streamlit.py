@@ -13,7 +13,7 @@ def main():
         if prediction[0][0] > 0.5:
             st.write("Toxic")
         else:
-            st.write("Not Toxic")
+            st.write("Not Toxic") 
 
-
-st.title("Toxicity Detection")
+if __name__ == '__main__':
+    main()

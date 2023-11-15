@@ -1,7 +1,7 @@
 
 # Comment Toxicity Analysis
 
-This repository contains the code to build a comment toxicity model using deep learning in Python. The objective is to analyze Wikipedia comments and classify them based on their toxicity.
+This repository contains the code to build a comment toxicity model using deep learning in Python. The objective is to analyze comments and classify them based on their toxicity.
 
 ## Dataset
 
